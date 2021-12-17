@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 22 Bool Değişkeni\Ders 22 Bool Değişkeni\bin\Debug\Ders 22 Bool Değişkeni.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 22 Bool Değişkeni\Ders 22 Bool Değişkeni\bin\Debug\Ders 22 Bool Değişkeni.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 22 Bool Değişkeni\Ders 22 Bool Değişkeni\bin\Debug\Ders 22 Bool Değişkeni.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 22 Bool Değişkeni\Ders 22 Bool Değişkeni\obj\Debug\Ders 22 Bool Değişkeni.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 22 Bool Değişkeni\Ders 22 Bool Değişkeni\obj\Debug\Ders 22 Bool Değişkeni.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 22 Bool Değişkeni\Ders 22 Bool Değişkeni\obj\Debug\Ders 22 Bool Değişkeni.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 22 Bool Değişkeni\Ders 22 Bool Değişkeni\obj\Debug\Ders 22 Bool Değişkeni.pdb

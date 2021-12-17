@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 13 Diziler\Ders 13 Diziler\bin\Debug\Ders 13 Diziler.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 13 Diziler\Ders 13 Diziler\bin\Debug\Ders 13 Diziler.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 13 Diziler\Ders 13 Diziler\bin\Debug\Ders 13 Diziler.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 13 Diziler\Ders 13 Diziler\obj\Debug\Ders 13 Diziler.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 13 Diziler\Ders 13 Diziler\obj\Debug\Ders 13 Diziler.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 13 Diziler\Ders 13 Diziler\obj\Debug\Ders 13 Diziler.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 13 Diziler\Ders 13 Diziler\obj\Debug\Ders 13 Diziler.pdb

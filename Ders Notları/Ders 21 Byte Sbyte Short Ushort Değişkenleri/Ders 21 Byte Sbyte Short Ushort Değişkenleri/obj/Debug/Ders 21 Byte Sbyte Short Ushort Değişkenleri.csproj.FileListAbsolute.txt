@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri\bin\Debug\Ders 21 Byte Sbyte Short Ushort Değişkenleri.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri\bin\Debug\Ders 21 Byte Sbyte Short Ushort Değişkenleri.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri\bin\Debug\Ders 21 Byte Sbyte Short Ushort Değişkenleri.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri\obj\Debug\Ders 21 Byte Sbyte Short Ushort Değişkenleri.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri\obj\Debug\Ders 21 Byte Sbyte Short Ushort Değişkenleri.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri\obj\Debug\Ders 21 Byte Sbyte Short Ushort Değişkenleri.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri\obj\Debug\Ders 21 Byte Sbyte Short Ushort Değişkenleri.pdb

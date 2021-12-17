@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 17 Random Komutu\Ders 17 Random Komutu\bin\Debug\Ders 17 Random Komutu.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 17 Random Komutu\Ders 17 Random Komutu\bin\Debug\Ders 17 Random Komutu.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 17 Random Komutu\Ders 17 Random Komutu\bin\Debug\Ders 17 Random Komutu.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 17 Random Komutu\Ders 17 Random Komutu\obj\Debug\Ders 17 Random Komutu.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 17 Random Komutu\Ders 17 Random Komutu\obj\Debug\Ders 17 Random Komutu.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 17 Random Komutu\Ders 17 Random Komutu\obj\Debug\Ders 17 Random Komutu.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 17 Random Komutu\Ders 17 Random Komutu\obj\Debug\Ders 17 Random Komutu.pdb

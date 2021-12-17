@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 12 While Döngüsü\Ders 12 While Döngüsü\bin\Debug\Ders 12 While Döngüsü.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 12 While Döngüsü\Ders 12 While Döngüsü\bin\Debug\Ders 12 While Döngüsü.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 12 While Döngüsü\Ders 12 While Döngüsü\bin\Debug\Ders 12 While Döngüsü.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 12 While Döngüsü\Ders 12 While Döngüsü\obj\Debug\Ders 12 While Döngüsü.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 12 While Döngüsü\Ders 12 While Döngüsü\obj\Debug\Ders 12 While Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 12 While Döngüsü\Ders 12 While Döngüsü\obj\Debug\Ders 12 While Döngüsü.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 12 While Döngüsü\Ders 12 While Döngüsü\obj\Debug\Ders 12 While Döngüsü.pdb

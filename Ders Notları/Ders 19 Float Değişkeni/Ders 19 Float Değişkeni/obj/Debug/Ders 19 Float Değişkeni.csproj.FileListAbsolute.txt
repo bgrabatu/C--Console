@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 19 Float Değişkeni\Ders 19 Float Değişkeni\obj\Debug\Ders 19 Float Değişkeni.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 19 Float Değişkeni\Ders 19 Float Değişkeni\obj\Debug\Ders 19 Float Değişkeni.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 19 Float Değişkeni\Ders 19 Float Değişkeni\bin\Debug\Ders 19 Float Değişkeni.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 19 Float Değişkeni\Ders 19 Float Değişkeni\bin\Debug\Ders 19 Float Değişkeni.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 19 Float Değişkeni\Ders 19 Float Değişkeni\bin\Debug\Ders 19 Float Değişkeni.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 19 Float Değişkeni\Ders 19 Float Değişkeni\obj\Debug\Ders 19 Float Değişkeni.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 19 Float Değişkeni\Ders 19 Float Değişkeni\obj\Debug\Ders 19 Float Değişkeni.pdb

@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 4 Aritmetik 4 İşlem Uygulaması\Ders 4 Aritmetik 4 İşlem Uygulaması\obj\Debug\Ders 4 Aritmetik 4 İşlem Uygulaması.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 4 Aritmetik 4 İşlem Uygulaması\Ders 4 Aritmetik 4 İşlem Uygulaması\obj\Debug\Ders 4 Aritmetik 4 İşlem Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 4 Aritmetik 4 İşlem Uygulaması\Ders 4 Aritmetik 4 İşlem Uygulaması\bin\Debug\Ders 4 Aritmetik 4 İşlem Uygulaması.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 4 Aritmetik 4 İşlem Uygulaması\Ders 4 Aritmetik 4 İşlem Uygulaması\bin\Debug\Ders 4 Aritmetik 4 İşlem Uygulaması.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 4 Aritmetik 4 İşlem Uygulaması\Ders 4 Aritmetik 4 İşlem Uygulaması\bin\Debug\Ders 4 Aritmetik 4 İşlem Uygulaması.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 4 Aritmetik 4 İşlem Uygulaması\Ders 4 Aritmetik 4 İşlem Uygulaması\obj\Debug\Ders 4 Aritmetik 4 İşlem Uygulaması.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 4 Aritmetik 4 İşlem Uygulaması\Ders 4 Aritmetik 4 İşlem Uygulaması\obj\Debug\Ders 4 Aritmetik 4 İşlem Uygulaması.pdb

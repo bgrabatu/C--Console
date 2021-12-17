@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 5 Double Değişkenler\Ders 5 Double Değişkenler\obj\Debug\Ders 5 Double Değişkenler.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 5 Double Değişkenler\Ders 5 Double Değişkenler\obj\Debug\Ders 5 Double Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 5 Double Değişkenler\Ders 5 Double Değişkenler\bin\Debug\Ders 5 Double Değişkenler.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 5 Double Değişkenler\Ders 5 Double Değişkenler\bin\Debug\Ders 5 Double Değişkenler.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 5 Double Değişkenler\Ders 5 Double Değişkenler\bin\Debug\Ders 5 Double Değişkenler.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 5 Double Değişkenler\Ders 5 Double Değişkenler\obj\Debug\Ders 5 Double Değişkenler.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 5 Double Değişkenler\Ders 5 Double Değişkenler\obj\Debug\Ders 5 Double Değişkenler.pdb

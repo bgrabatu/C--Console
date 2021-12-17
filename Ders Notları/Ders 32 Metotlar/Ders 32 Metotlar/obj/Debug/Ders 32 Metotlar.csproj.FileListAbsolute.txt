@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 32 Metotlar\Ders 32 Metotlar\bin\Debug\Ders 32 Metotlar.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 32 Metotlar\Ders 32 Metotlar\bin\Debug\Ders 32 Metotlar.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 32 Metotlar\Ders 32 Metotlar\bin\Debug\Ders 32 Metotlar.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 32 Metotlar\Ders 32 Metotlar\obj\Debug\Ders 32 Metotlar.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 32 Metotlar\Ders 32 Metotlar\obj\Debug\Ders 32 Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 32 Metotlar\Ders 32 Metotlar\obj\Debug\Ders 32 Metotlar.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 32 Metotlar\Ders 32 Metotlar\obj\Debug\Ders 32 Metotlar.pdb

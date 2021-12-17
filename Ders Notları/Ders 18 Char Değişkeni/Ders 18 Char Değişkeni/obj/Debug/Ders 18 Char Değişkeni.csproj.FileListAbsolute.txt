@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 18 Char Değişkeni\Ders 18 Char Değişkeni\bin\Debug\Ders 18 Char Değişkeni.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 18 Char Değişkeni\Ders 18 Char Değişkeni\bin\Debug\Ders 18 Char Değişkeni.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 18 Char Değişkeni\Ders 18 Char Değişkeni\bin\Debug\Ders 18 Char Değişkeni.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 18 Char Değişkeni\Ders 18 Char Değişkeni\obj\Debug\Ders 18 Char Değişkeni.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 18 Char Değişkeni\Ders 18 Char Değişkeni\obj\Debug\Ders 18 Char Değişkeni.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 18 Char Değişkeni\Ders 18 Char Değişkeni\obj\Debug\Ders 18 Char Değişkeni.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 18 Char Değişkeni\Ders 18 Char Değişkeni\obj\Debug\Ders 18 Char Değişkeni.pdb

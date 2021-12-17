@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 7 Karar Yapıları 2\Ders 7 Karar Yapıları 2\bin\Debug\Ders 7 Karar Yapıları 2.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 7 Karar Yapıları 2\Ders 7 Karar Yapıları 2\bin\Debug\Ders 7 Karar Yapıları 2.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 7 Karar Yapıları 2\Ders 7 Karar Yapıları 2\bin\Debug\Ders 7 Karar Yapıları 2.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 7 Karar Yapıları 2\Ders 7 Karar Yapıları 2\obj\Debug\Ders 7 Karar Yapıları 2.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 7 Karar Yapıları 2\Ders 7 Karar Yapıları 2\obj\Debug\Ders 7 Karar Yapıları 2.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 7 Karar Yapıları 2\Ders 7 Karar Yapıları 2\obj\Debug\Ders 7 Karar Yapıları 2.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 7 Karar Yapıları 2\Ders 7 Karar Yapıları 2\obj\Debug\Ders 7 Karar Yapıları 2.pdb

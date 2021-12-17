@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 6 Karar Yapıları\Ders 6 Karar Yapıları\obj\Debug\Ders 6 Karar Yapıları.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 6 Karar Yapıları\Ders 6 Karar Yapıları\obj\Debug\Ders 6 Karar Yapıları.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 6 Karar Yapıları\Ders 6 Karar Yapıları\bin\Debug\Ders 6 Karar Yapıları.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 6 Karar Yapıları\Ders 6 Karar Yapıları\bin\Debug\Ders 6 Karar Yapıları.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 6 Karar Yapıları\Ders 6 Karar Yapıları\bin\Debug\Ders 6 Karar Yapıları.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 6 Karar Yapıları\Ders 6 Karar Yapıları\obj\Debug\Ders 6 Karar Yapıları.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 6 Karar Yapıları\Ders 6 Karar Yapıları\obj\Debug\Ders 6 Karar Yapıları.pdb

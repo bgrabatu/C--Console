@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 36 Sınıflar 2 Get-Set Kavramları\Ders 36 Sınıflar 2 Get-Set Kavramları\bin\Debug\Ders 36 Sınıflar 2 Get-Set Kavramları.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 36 Sınıflar 2 Get-Set Kavramları\Ders 36 Sınıflar 2 Get-Set Kavramları\bin\Debug\Ders 36 Sınıflar 2 Get-Set Kavramları.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 36 Sınıflar 2 Get-Set Kavramları\Ders 36 Sınıflar 2 Get-Set Kavramları\bin\Debug\Ders 36 Sınıflar 2 Get-Set Kavramları.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 36 Sınıflar 2 Get-Set Kavramları\Ders 36 Sınıflar 2 Get-Set Kavramları\obj\Debug\Ders 36 Sınıflar 2 Get-Set Kavramları.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 36 Sınıflar 2 Get-Set Kavramları\Ders 36 Sınıflar 2 Get-Set Kavramları\obj\Debug\Ders 36 Sınıflar 2 Get-Set Kavramları.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 36 Sınıflar 2 Get-Set Kavramları\Ders 36 Sınıflar 2 Get-Set Kavramları\obj\Debug\Ders 36 Sınıflar 2 Get-Set Kavramları.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 36 Sınıflar 2 Get-Set Kavramları\Ders 36 Sınıflar 2 Get-Set Kavramları\obj\Debug\Ders 36 Sınıflar 2 Get-Set Kavramları.pdb

@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 11 Döngüler 2\Ders 11 Döngüler 2\bin\Debug\Ders 11 Döngüler 2.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 11 Döngüler 2\Ders 11 Döngüler 2\bin\Debug\Ders 11 Döngüler 2.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 11 Döngüler 2\Ders 11 Döngüler 2\bin\Debug\Ders 11 Döngüler 2.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 11 Döngüler 2\Ders 11 Döngüler 2\obj\Debug\Ders 11 Döngüler 2.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 11 Döngüler 2\Ders 11 Döngüler 2\obj\Debug\Ders 11 Döngüler 2.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 11 Döngüler 2\Ders 11 Döngüler 2\obj\Debug\Ders 11 Döngüler 2.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 11 Döngüler 2\Ders 11 Döngüler 2\obj\Debug\Ders 11 Döngüler 2.csprojAssemblyReference.cache

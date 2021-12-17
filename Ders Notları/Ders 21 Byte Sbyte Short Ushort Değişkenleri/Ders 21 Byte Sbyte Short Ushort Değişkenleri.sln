@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 21 Byte Sbyte Short Ushort Değişkenleri", "Ders 21 Byte Sbyte Short Ushort Değişkenleri\Ders 21 Byte Sbyte Short Ushort Değişkenleri.csproj", "{5DE93DA3-9D36-46D3-9772-203D2B93CD98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DE93DA3-9D36-46D3-9772-203D2B93CD98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE93DA3-9D36-46D3-9772-203D2B93CD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE93DA3-9D36-46D3-9772-203D2B93CD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE93DA3-9D36-46D3-9772-203D2B93CD98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4577D2AB-BF69-4790-8C86-8D632F80D07C}
+	EndGlobalSection
+EndGlobal

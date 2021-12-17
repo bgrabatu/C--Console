@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 15 Foreach Döngüsü (Diziler 3)\Ders 15 Foreach Döngüsü (Diziler 3)\bin\Debug\Ders 15 Foreach Döngüsü (Diziler 3).exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 15 Foreach Döngüsü (Diziler 3)\Ders 15 Foreach Döngüsü (Diziler 3)\bin\Debug\Ders 15 Foreach Döngüsü (Diziler 3).exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 15 Foreach Döngüsü (Diziler 3)\Ders 15 Foreach Döngüsü (Diziler 3)\bin\Debug\Ders 15 Foreach Döngüsü (Diziler 3).pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 15 Foreach Döngüsü (Diziler 3)\Ders 15 Foreach Döngüsü (Diziler 3)\obj\Debug\Ders 15 Foreach Döngüsü (Diziler 3).csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 15 Foreach Döngüsü (Diziler 3)\Ders 15 Foreach Döngüsü (Diziler 3)\obj\Debug\Ders 15 Foreach Döngüsü (Diziler 3).csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 15 Foreach Döngüsü (Diziler 3)\Ders 15 Foreach Döngüsü (Diziler 3)\obj\Debug\Ders 15 Foreach Döngüsü (Diziler 3).exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 15 Foreach Döngüsü (Diziler 3)\Ders 15 Foreach Döngüsü (Diziler 3)\obj\Debug\Ders 15 Foreach Döngüsü (Diziler 3).pdb

@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\DERS1 MERHABA DÜNYA\Ders1 Merhaba Dünya\Ders1 Merhaba Dünya\bin\Debug\Ders1 Merhaba Dünya.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\DERS1 MERHABA DÜNYA\Ders1 Merhaba Dünya\Ders1 Merhaba Dünya\bin\Debug\Ders1 Merhaba Dünya.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\DERS1 MERHABA DÜNYA\Ders1 Merhaba Dünya\Ders1 Merhaba Dünya\bin\Debug\Ders1 Merhaba Dünya.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\DERS1 MERHABA DÜNYA\Ders1 Merhaba Dünya\Ders1 Merhaba Dünya\obj\Debug\Ders1 Merhaba Dünya.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\DERS1 MERHABA DÜNYA\Ders1 Merhaba Dünya\Ders1 Merhaba Dünya\obj\Debug\Ders1 Merhaba Dünya.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\DERS1 MERHABA DÜNYA\Ders1 Merhaba Dünya\Ders1 Merhaba Dünya\obj\Debug\Ders1 Merhaba Dünya.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\DERS1 MERHABA DÜNYA\Ders1 Merhaba Dünya\Ders1 Merhaba Dünya\obj\Debug\Ders1 Merhaba Dünya.pdb

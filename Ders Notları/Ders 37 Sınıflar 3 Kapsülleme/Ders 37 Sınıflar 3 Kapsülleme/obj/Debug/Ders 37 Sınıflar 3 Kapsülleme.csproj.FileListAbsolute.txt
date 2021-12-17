@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 37 Sınıflar 3 Kapsülleme\Ders 37 Sınıflar 3 Kapsülleme\obj\Debug\Ders 37 Sınıflar 3 Kapsülleme.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 37 Sınıflar 3 Kapsülleme\Ders 37 Sınıflar 3 Kapsülleme\obj\Debug\Ders 37 Sınıflar 3 Kapsülleme.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 37 Sınıflar 3 Kapsülleme\Ders 37 Sınıflar 3 Kapsülleme\bin\Debug\Ders 37 Sınıflar 3 Kapsülleme.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 37 Sınıflar 3 Kapsülleme\Ders 37 Sınıflar 3 Kapsülleme\bin\Debug\Ders 37 Sınıflar 3 Kapsülleme.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 37 Sınıflar 3 Kapsülleme\Ders 37 Sınıflar 3 Kapsülleme\bin\Debug\Ders 37 Sınıflar 3 Kapsülleme.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 37 Sınıflar 3 Kapsülleme\Ders 37 Sınıflar 3 Kapsülleme\obj\Debug\Ders 37 Sınıflar 3 Kapsülleme.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 37 Sınıflar 3 Kapsülleme\Ders 37 Sınıflar 3 Kapsülleme\obj\Debug\Ders 37 Sınıflar 3 Kapsülleme.pdb

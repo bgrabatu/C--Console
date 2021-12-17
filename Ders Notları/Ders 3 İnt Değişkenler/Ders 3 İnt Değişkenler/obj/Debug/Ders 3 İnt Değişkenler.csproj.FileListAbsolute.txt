@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 3 İnt Değişkenler\Ders 3 İnt Değişkenler\obj\Debug\Ders 3 İnt Değişkenler.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 3 İnt Değişkenler\Ders 3 İnt Değişkenler\obj\Debug\Ders 3 İnt Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 3 İnt Değişkenler\Ders 3 İnt Değişkenler\bin\Debug\Ders 3 İnt Değişkenler.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 3 İnt Değişkenler\Ders 3 İnt Değişkenler\bin\Debug\Ders 3 İnt Değişkenler.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 3 İnt Değişkenler\Ders 3 İnt Değişkenler\bin\Debug\Ders 3 İnt Değişkenler.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 3 İnt Değişkenler\Ders 3 İnt Değişkenler\obj\Debug\Ders 3 İnt Değişkenler.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 3 İnt Değişkenler\Ders 3 İnt Değişkenler\obj\Debug\Ders 3 İnt Değişkenler.pdb

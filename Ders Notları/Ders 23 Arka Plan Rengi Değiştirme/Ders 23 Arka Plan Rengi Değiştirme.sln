@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 23 Arka Plan Rengi Değiştirme", "Ders 23 Arka Plan Rengi Değiştirme\Ders 23 Arka Plan Rengi Değiştirme.csproj", "{1D9B276B-95AE-475E-A38F-88E81CB11CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D9B276B-95AE-475E-A38F-88E81CB11CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9B276B-95AE-475E-A38F-88E81CB11CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9B276B-95AE-475E-A38F-88E81CB11CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9B276B-95AE-475E-A38F-88E81CB11CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB47087-14F0-498E-B27E-80EFC9A0D806}
+	EndGlobalSection
+EndGlobal

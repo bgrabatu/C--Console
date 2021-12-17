@@ -1,0 +1,6 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 23 Arka Plan Rengi Değiştirme\Ders 23 Arka Plan Rengi Değiştirme\bin\Debug\Ders 23 Arka Plan Rengi Değiştirme.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 23 Arka Plan Rengi Değiştirme\Ders 23 Arka Plan Rengi Değiştirme\bin\Debug\Ders 23 Arka Plan Rengi Değiştirme.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 23 Arka Plan Rengi Değiştirme\Ders 23 Arka Plan Rengi Değiştirme\bin\Debug\Ders 23 Arka Plan Rengi Değiştirme.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 23 Arka Plan Rengi Değiştirme\Ders 23 Arka Plan Rengi Değiştirme\obj\Debug\Ders 23 Arka Plan Rengi Değiştirme.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 23 Arka Plan Rengi Değiştirme\Ders 23 Arka Plan Rengi Değiştirme\obj\Debug\Ders 23 Arka Plan Rengi Değiştirme.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 23 Arka Plan Rengi Değiştirme\Ders 23 Arka Plan Rengi Değiştirme\obj\Debug\Ders 23 Arka Plan Rengi Değiştirme.pdb

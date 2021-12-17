@@ -1,0 +1,6 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 33 Methodlar 2 v2\Ders 33 Methodlar 2 v2\bin\Debug\Ders 33 Methodlar 2 v2.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 33 Methodlar 2 v2\Ders 33 Methodlar 2 v2\bin\Debug\Ders 33 Methodlar 2 v2.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 33 Methodlar 2 v2\Ders 33 Methodlar 2 v2\bin\Debug\Ders 33 Methodlar 2 v2.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 33 Methodlar 2 v2\Ders 33 Methodlar 2 v2\obj\Debug\Ders 33 Methodlar 2 v2.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 33 Methodlar 2 v2\Ders 33 Methodlar 2 v2\obj\Debug\Ders 33 Methodlar 2 v2.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 33 Methodlar 2 v2\Ders 33 Methodlar 2 v2\obj\Debug\Ders 33 Methodlar 2 v2.pdb

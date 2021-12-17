@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 2 String Değişkenleri\Ders 2 String Değişkenleri\bin\Debug\Ders 2 String Değişkenleri.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 2 String Değişkenleri\Ders 2 String Değişkenleri\bin\Debug\Ders 2 String Değişkenleri.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 2 String Değişkenleri\Ders 2 String Değişkenleri\bin\Debug\Ders 2 String Değişkenleri.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 2 String Değişkenleri\Ders 2 String Değişkenleri\obj\Debug\Ders 2 String Değişkenleri.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 2 String Değişkenleri\Ders 2 String Değişkenleri\obj\Debug\Ders 2 String Değişkenleri.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 2 String Değişkenleri\Ders 2 String Değişkenleri\obj\Debug\Ders 2 String Değişkenleri.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 2 String Değişkenleri\Ders 2 String Değişkenleri\obj\Debug\Ders 2 String Değişkenleri.pdb

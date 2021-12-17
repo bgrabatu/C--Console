@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 24 Çok Boyutlu Diziler\Ders 24 Çok Boyutlu Diziler\bin\Debug\Ders 24 Çok Boyutlu Diziler.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 24 Çok Boyutlu Diziler\Ders 24 Çok Boyutlu Diziler\bin\Debug\Ders 24 Çok Boyutlu Diziler.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 24 Çok Boyutlu Diziler\Ders 24 Çok Boyutlu Diziler\bin\Debug\Ders 24 Çok Boyutlu Diziler.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 24 Çok Boyutlu Diziler\Ders 24 Çok Boyutlu Diziler\obj\Debug\Ders 24 Çok Boyutlu Diziler.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 24 Çok Boyutlu Diziler\Ders 24 Çok Boyutlu Diziler\obj\Debug\Ders 24 Çok Boyutlu Diziler.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 24 Çok Boyutlu Diziler\Ders 24 Çok Boyutlu Diziler\obj\Debug\Ders 24 Çok Boyutlu Diziler.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 24 Çok Boyutlu Diziler\Ders 24 Çok Boyutlu Diziler\obj\Debug\Ders 24 Çok Boyutlu Diziler.pdb

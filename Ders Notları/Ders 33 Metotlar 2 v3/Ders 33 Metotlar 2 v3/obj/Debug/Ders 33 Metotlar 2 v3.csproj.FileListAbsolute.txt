@@ -1,0 +1,6 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 33 Metotlar 2 v3\Ders 33 Metotlar 2 v3\obj\Debug\Ders 33 Metotlar 2 v3.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 33 Metotlar 2 v3\Ders 33 Metotlar 2 v3\bin\Debug\Ders 33 Metotlar 2 v3.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 33 Metotlar 2 v3\Ders 33 Metotlar 2 v3\bin\Debug\Ders 33 Metotlar 2 v3.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 33 Metotlar 2 v3\Ders 33 Metotlar 2 v3\bin\Debug\Ders 33 Metotlar 2 v3.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 33 Metotlar 2 v3\Ders 33 Metotlar 2 v3\obj\Debug\Ders 33 Metotlar 2 v3.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 33 Metotlar 2 v3\Ders 33 Metotlar 2 v3\obj\Debug\Ders 33 Metotlar 2 v3.pdb

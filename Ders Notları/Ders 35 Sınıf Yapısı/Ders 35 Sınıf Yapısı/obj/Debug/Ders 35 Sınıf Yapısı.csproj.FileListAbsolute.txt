@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 35 Sınıf Yapısı\Ders 35 Sınıf Yapısı\bin\Debug\Ders 35 Sınıf Yapısı.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 35 Sınıf Yapısı\Ders 35 Sınıf Yapısı\bin\Debug\Ders 35 Sınıf Yapısı.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 35 Sınıf Yapısı\Ders 35 Sınıf Yapısı\bin\Debug\Ders 35 Sınıf Yapısı.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 35 Sınıf Yapısı\Ders 35 Sınıf Yapısı\obj\Debug\Ders 35 Sınıf Yapısı.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 35 Sınıf Yapısı\Ders 35 Sınıf Yapısı\obj\Debug\Ders 35 Sınıf Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 35 Sınıf Yapısı\Ders 35 Sınıf Yapısı\obj\Debug\Ders 35 Sınıf Yapısı.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 35 Sınıf Yapısı\Ders 35 Sınıf Yapısı\obj\Debug\Ders 35 Sınıf Yapısı.pdb

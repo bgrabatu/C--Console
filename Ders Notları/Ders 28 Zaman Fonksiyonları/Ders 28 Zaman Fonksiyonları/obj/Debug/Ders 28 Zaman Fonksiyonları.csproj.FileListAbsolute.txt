@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 28 Zaman Fonksiyonları\Ders 28 Zaman Fonksiyonları\bin\Debug\Ders 28 Zaman Fonksiyonları.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 28 Zaman Fonksiyonları\Ders 28 Zaman Fonksiyonları\bin\Debug\Ders 28 Zaman Fonksiyonları.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 28 Zaman Fonksiyonları\Ders 28 Zaman Fonksiyonları\bin\Debug\Ders 28 Zaman Fonksiyonları.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 28 Zaman Fonksiyonları\Ders 28 Zaman Fonksiyonları\obj\Debug\Ders 28 Zaman Fonksiyonları.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 28 Zaman Fonksiyonları\Ders 28 Zaman Fonksiyonları\obj\Debug\Ders 28 Zaman Fonksiyonları.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 28 Zaman Fonksiyonları\Ders 28 Zaman Fonksiyonları\obj\Debug\Ders 28 Zaman Fonksiyonları.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 28 Zaman Fonksiyonları\Ders 28 Zaman Fonksiyonları\obj\Debug\Ders 28 Zaman Fonksiyonları.pdb

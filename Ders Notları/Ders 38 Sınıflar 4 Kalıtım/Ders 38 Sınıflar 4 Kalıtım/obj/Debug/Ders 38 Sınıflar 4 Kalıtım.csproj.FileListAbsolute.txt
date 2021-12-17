@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 38 Sınıflar 4 Kalıtım\Ders 38 Sınıflar 4 Kalıtım\obj\Debug\Ders 38 Sınıflar 4 Kalıtım.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 38 Sınıflar 4 Kalıtım\Ders 38 Sınıflar 4 Kalıtım\obj\Debug\Ders 38 Sınıflar 4 Kalıtım.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 38 Sınıflar 4 Kalıtım\Ders 38 Sınıflar 4 Kalıtım\bin\Debug\Ders 38 Sınıflar 4 Kalıtım.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 38 Sınıflar 4 Kalıtım\Ders 38 Sınıflar 4 Kalıtım\bin\Debug\Ders 38 Sınıflar 4 Kalıtım.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 38 Sınıflar 4 Kalıtım\Ders 38 Sınıflar 4 Kalıtım\bin\Debug\Ders 38 Sınıflar 4 Kalıtım.pdb
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 38 Sınıflar 4 Kalıtım\Ders 38 Sınıflar 4 Kalıtım\obj\Debug\Ders 38 Sınıflar 4 Kalıtım.exe
+C:\Users\batuh\OneDrive\Masaüstü\C# Dersleri\Ders 38 Sınıflar 4 Kalıtım\Ders 38 Sınıflar 4 Kalıtım\obj\Debug\Ders 38 Sınıflar 4 Kalıtım.pdb
